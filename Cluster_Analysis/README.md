@@ -1,1 +1,1 @@
-
+Investigates how States cluster depending on interest in google trends searches related to the word "Trump". Creates dendrograms and heatmaps to visualize the clusters, and uses silhouette diagrams and an elbows diagram to determine the optimal number of clusters to use.
